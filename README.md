@@ -17,7 +17,7 @@ Hack cameras like a hacker.
 
 -  `python3 cam-hackers.py`
 
-* use your package manager on linux. On Windows you can install python from the Microsoft Store and download the git repo from github site.
+   *use your package manager on linux. On Windows you can install python from the Microsoft Store and download the git repo from github site.
 
 ## usage ##
 
