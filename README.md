@@ -25,7 +25,7 @@ Hack cameras like a hacker.
 
 - select the state with his numeric code
 
-- copy-paste on a browser the cameras ip to view the source of those.
+- copy-paste on a browser the camera ip to view the source of those.
 
 ## notes ##
 This software is only for educational purposes.
