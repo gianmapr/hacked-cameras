@@ -7,7 +7,7 @@ Hack cameras like a hacker.
 
 -  `apt-get install git` *
 
--  `git clone https://github.com/AngelSecurityTeam/Cam-Hackers`
+-  `git clone https://github.com/gianmapr/hacked-cameras`
    
 -  `pip3 install requests`
 
@@ -24,6 +24,7 @@ Hack cameras like a hacker.
 - run the file 'hckd-cams.py'
 
 - select the state with his numeric code
+- enjoy XD
 
 - copy-paste on a browser the camera ip to view the source of those.
 
