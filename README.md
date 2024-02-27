@@ -13,9 +13,9 @@ Hack cameras like a hacker.
 
 -  `pip3 install colorama`
     
--  `cd Cam-Hackers`
+-  `cd hacked-cameras`
 
--  `python3 cam-hackers.py`
+-  `python3 hckd-cams.py`
 
    *use your package manager on linux. On Windows you can install python from the Microsoft Store and download the git repo from github site.
 
